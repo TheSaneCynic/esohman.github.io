@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Language Teachnology, University of Helsinki, Finland, January 1, 2016 - February, 2021 (expected)
-  * Topic: Multi-dimensional cross-lingual sentiment analysis (working title)
+  * Topic: The Language of Emotions: Building and Applying Computational Methods for Emotion Detection for English and Beyond
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
   * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
@@ -21,6 +21,8 @@ Education
 
 Professional experience
 ======
+* Post-Doctoral Researcher, Intimacy in Data-Driven Culture, University of Tampare, 11/2020-present
+* Post-Doctoral Researcher, Consumer Society Research Center, University of Helsinki, 10/2020-present
 * Doctoral Student, Department of Digital Humanities, University of Helsinki 1/2016-2/2021
 * Research Assistant, Reassessing language change: the challenge of real time, University of Helsinki, 9/2014-12/2015
 * Systems Specialist, Imagine Global Care, Tokyo, Japan 2013-2014
@@ -51,6 +53,7 @@ Languages
 * Finnish
 * Japanese
   * JLPT N1
+* Norwegian
 
 Publications
 ======
