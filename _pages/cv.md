@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Language Teachnology, University of Helsinki, Finland, January 1, 2016 - February, 2021 (expected)
-  * Topic: Multi-dimensional cross-lingual sentiment analysis (working title)
+  * Topic: The Language of Emotions
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
   * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
@@ -21,6 +21,9 @@ Education
 
 Professional experience
 ======
+* Assistant Professor of Digital Humanities, School of International Liberal Studies, Waseda University, 4/21-
+* PostDoc, Intimacy in Data-driven Culture (IDA), Tampere University, 12/21-3/21
+* PostDoc, Unconventional Communicators in the Corona crisis (UnCoCo), 9/21-
 * Doctoral Student, Department of Digital Humanities, University of Helsinki 1/2016-2/2021
 * Research Assistant, Reassessing language change: the challenge of real time, University of Helsinki, 9/2014-12/2015
 * Systems Specialist, Imagine Global Care, Tokyo, Japan 2013-2014
@@ -38,9 +41,9 @@ Research Interests
   * Annotation projection
   
 * Digital Humanities
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Computational Literary Studies
+  * DH Pedagogy
+  * AI Ethics
 
 * Social Media Analysis
 
