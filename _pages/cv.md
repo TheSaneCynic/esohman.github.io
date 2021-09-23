@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Language Teachnology, University of Helsinki, Finland, January 1, 2016 - February, 2021 (expected)
+* Ph.D in Language Teachnology, University of Helsinki, Finland, January 1, 2016 - March, 2021
   * Topic: The Language of Emotions
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
