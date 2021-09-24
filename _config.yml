@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily Ohman"
+  name             :
   avatar           : "profile.jpg"
   bio              : "Digital Humanities researcher focusing on emotion analysis and digital humanities pedagogy"
   location         : "Tokyo, Japan"
