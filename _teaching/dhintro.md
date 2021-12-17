@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Digital Humanities"
-collection: Current courses
+collection: teaching
 type: "Undergraduate course, Introductory course"
 permalink: /teaching/dhintro
 venue: "Waseda Unviersity, School of International Liberal Studies (open to all of Waseda)"
