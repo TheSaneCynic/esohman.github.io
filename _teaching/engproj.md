@@ -9,7 +9,4 @@ location: "Helsinki, Finland"
 ---
 
 
-
-Project Course in English Linguistics
-======
-For graduate students of English philology and the English teaching program. Focusing on the Language Change Database.
+For graduate students of English philology and the English teaching program. Focusing on practical tasks for the Language Change Database and teaching students to digest information from academic papers focused on diachronic corpus linguistics. 
