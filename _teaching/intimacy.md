@@ -1,6 +1,6 @@
 ---
 title: "Digital Intimacy: Media, habits, and affect."
-collection: lecture
+collection: teaching
 type: "Graduate course"
 permalink: /teaching/intimacy
 venue: "Tampere University, Faculty of Information Technology and Communication Sciences"
