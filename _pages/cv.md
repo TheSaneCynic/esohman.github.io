@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Language Teachnology, University of Helsinki, Finland, January 1, 2016 - March, 2021
-  * Topic: The Language of Emotions
+* Ph.D in Language Technology, University of Helsinki, Finland, January 1, 2016 - March, 2021
+  * Topic: The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
   * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
@@ -37,15 +37,31 @@ Research Interests
 * Sentiment and Emotion Analysis
   * Crosslingual sentiment analysis
   * Fine-grained sentiment analysis
-  * Multidimeansional sentiment analysis
+  * Multidimensional sentiment analysis
   * Annotation projection
+  * Validation
+  * Emotion categorization
+  * Applied sentiment analysis
   
 * Digital Humanities
   * Computational Literary Studies
+  * Applied sentiment and emotion analysis
+    * Computational political studies
+    * Communication studies
+    * Computational social studies   
   * DH Pedagogy
   * AI Ethics
+  * Open science
 
 * Social Media Analysis
+
+* Linguistics
+  * Semantic shift in closely related languages   
+  * Semantic shifts in time
+  * Reduplication
+  * Corpus linguistics
+  * Sociolinguistics
+  * Metalinguistic awareness (and language acquisition)
 
 Languages
 ======
@@ -54,6 +70,14 @@ Languages
 * Finnish
 * Japanese
   * JLPT N1
+* Norwegian
+* Various levels of "rustiness":
+  * German
+  * French
+  * Dutch
+  * Estonian
+  * Icelandic
+  * Chinese (Mandarin)  
 
 Publications
 ======
