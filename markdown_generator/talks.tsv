@@ -1,5 +1,25 @@
-title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+﻿title	type	url_slug	venue	date	location	talk_url	description
+SELF & FEIL: Emotion lexicons for Finnish	Conference presentation	https://dhnb.eu/conferences/dhnb2022/	DHNB'22	2022/03/18	"Uppsala	 Sweden"		
+The Validity of Lexicon-based Emotion Analysis in Interdisciplinary Research	Conference presentation	https://rootroo.com/en/nlp4dh-workshop/	NLP4DH	2021/12/19	"NIT Silchar	 India"		
+Japanese Beauty Marketing on Social Media: Critical Discourse Analysis Meets NLP	Conference presentation	https://rootroo.com/en/nlp4dh-workshop/	NLP4DH	2021/12/19	"NIT Silchar	 India"		
+What to expect from an academic career?	Panel	"https://www.digitalfutures.kth.se/news/future-digileaders/#:~:text=Future%20Digileaders%20is%20a%20yearly	%2C%20panels%2C%20and%20sincere%20discussions."	Future Digileaders	2021/10/19	"Stockholm	 Sweden"		
+Skin Deep: Exploring ideals of Japanese beauty through social media	Conference presentation	https://www.hi.u-tokyo.ac.jp/JADH/2021/	JADH'21	2021/09/07	"Tokyo	 Japan"		
+Panel: Current approaches to Digital Humanities. Researches of the EADH Small Grants 2020 recipients	Panel	https://eadh2020-2021.org/	EADH'21	2021/09/23	"Krasnoyarsk	 Russia"		
+AI Ethics and Applications in Finance	Talk	https://indexvarainhoito.fi/	Index Varainhoito	2021/09/09	"Helsinki	 Finland"		
+AI for the Environment	Talk	https://www.syke.fi/en-US	"Finnish Environment Institute	Feb	 2021Invited"	2021/01/22	"Helsinki	 Finland"		
+XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection	Talk	https://coling2020.org/	COLING'20	2020/12/11	"Barcelona	 Spain"		
+Challenges in Annotation: Annotator Experiences from a Crowdsourced Emotion Annotation Task	Conference presentation	https://dhnb.eu/past-conferences/dhn2020/	DHNB'20	2020/10/22	"Riga	 Latvia"		
+Emotion Preservation in Translation: Evaluating Datasets for Annotation Projection	Conference presentation	https://dhnb.eu/past-conferences/dhn2020/	DHNB'20	2020/10/22	"Riga	 Latvia"		
+Workshop leader on minimizing bias in machine learning algorithms	Workshop	https://wiki.helsinki.fi/pages/viewpage.action?pageId=305512871	Rajapinta days	2020/11/20	"Espoo	 Finland"		
+Towards the Inevitable Demise of Everybody? A multifactorial analysis of -one/-body/-man variation in indefinite pronouns in historical American English	Conference presentation		ICAME 40	2019/06/01	"Neuchatel	 Switzerland"		
+Teaching Computational Methods to Humanities Students	Conference presentation		DHN'19	2019/03/07	"Copenhagen	 Denmark"		
+Introducing Sentimentator for Social Sciences	Conference presentation	https://wiki.helsinki.fi/pages/viewpage.action?pageId=266350639	Rajapinta days	2018/11/16	"Espoo	 Finland"		
+Multilingual Emotion Analysis	Conference presentation		DigHum: JSPS & AKA	2018/11/06	"Helsinki	 Finland"		
+Creating a Dataset for Multilingual Fine-grained Emotion-detection Using Gamification-based Annotation	Conference presentation	https://wt-public.emm4u.eu/wassa2018/	WASSA EMNLP	2018/10/31	"Brussels	 Belgium"		
+Computational Bias and AI Ethics	Talk		AI in Education	2018/10/24	"Stanford	 California"		
+Sentimentator: A Sentiment and Emotion Annotation Platform	Conference presentation	https://www2.helsinki.fi/en/helsinki-centre-for-digital-humanities/dhn-2018	DHN'18	2018/03/08	"Helsinki	 Finland"		
+Mitigating Bias in Machine Learning Applications	Conference presentation		AI in Education	2019/02/13	"Helsinki	 Finland"		
+The Challenges of Multi-dimensional Sentiment Analysis Across Languages	Conference presentation	https://dblp.org/db/conf/coling/peoples2016.html	PEOPLES COLING	2016/12/12	"Osaka	 Japan"		
+Lexicon-based Multilingual Sentiment Analysis	Talk		FIN-CLARIN	2016/06/10	"Helsinki	 Finland"		
+"""Language Change Database: a new online resource"""	Conference presentation	https://www2.helsinki.fi/en/researchgroups/varieng/d2e-from-data-to-evidence	From Data to Evidence	2015/10/22	"Helsinki	 Finland"		
+Doctoral studies in language technology	Talk		HELSLANG	2016/06/08	"Helsinki	 Finland"		
