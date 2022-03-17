@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Language Technology, University of Helsinki, Finland, January 1, 2016 - March, 2021
-  * Topic: The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond
+  * The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
   * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
@@ -21,11 +21,11 @@ Education
 
 Professional experience
 ======
-* Assistant Professor of Digital Humanities, School of International Liberal Studies, Waseda University, 4/21-
-* PostDoc, Intimacy in Data-driven Culture (IDA), Tampere University, 12/21-3/21
-* PostDoc, Unconventional Communicators in the Corona crisis (UnCoCo), 9/21-
-* Doctoral Student, Department of Digital Humanities, University of Helsinki 1/2016-2/2021
-* Research Assistant, Reassessing language change: the challenge of real time, University of Helsinki, 9/2014-12/2015
+* [Assistant Professor of Digital Humanities](https://w-rdb.waseda.jp/html/100002999_en.html), [School of International Liberal Studies](https://www.waseda.jp/fire/sils/en/), Waseda University, 4/21-
+* PostDoc, [Intimacy in Data-driven Culture (IDA)](https://www.dataintimacy.fi/en/), Tampere University, 12/21-3/21
+* PostDoc, [Unconventional Communicators in the Corona crisis (UnCoCo)](https://blogs.helsinki.fi/uncocoproject/), 9/21-
+* Doctoral Student, [Department of Digital Humanities](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities) ([Language Technology](https://blogs.helsinki.fi/language-technology/)), University of Helsinki 1/2016-2/2021
+* Research Assistant, [Reassessing language change: the challenge of real time](https://lcd.helsinki.fi/), University of Helsinki, 9/2014-12/2015
 * Systems Specialist, Imagine Global Care, Tokyo, Japan 2013-2014
 * Project Manager, Komatsu Australia, Sydney, Australia 2011-2012
 * Assistant Director, Imagine International Preschool, Tokyo, Japan 2006-2010
@@ -97,6 +97,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Grants, Projects & Awards
+======
+* JSPS Kakenhi Early career researcher: Negative emotions in literature: A computational approach to tone and mood: 2022-2024. 1,500,000JPY
+* Tokutei Kadai, Research base creation, 2021-2022. 298,000JPY
+* European Association for Digital Humanities (EADH) small grants recipient 2020 for the development of a [Python notebook for Digital Humanities](https://github.com/esohman/EADH). 1000€
+* Helsingin Sanomain Säätiö, [Unconventional communicators in the corona-crisis](https://blogs.helsinki.fi/uncocoproject/), 2020-2022. 99000€ (group application)
+* The Faculty of Arts (University of Helsinki): 4-year research grant (salary) for Ph.D. research. 2016-2021. roughly 150,000€
+* The Dean’s Mobility Grant 2018 (to visit the University of Tokyo, Japan). 9000€
+* Chosen as a Future Digileader 2020 by the KTH Royal Institute of Technology, Digital Futures research center in Sweden.
+
 Other Academic experience
 ======
-* Currently signed in to 43 different slack teams
+* Member of Ethics Committee at the University of Helsinki
+* Member of Steering Committee for Digitalization at the University of Helsinki (Digitaalisen kehittämisen ohjausryhmä)
+* Member of Teaching Evaluation Committee at the University of Helsinki (Evaluating teaching demos and teaching skills of applicants of faculty positions)
+* Member of Statistics Education Committee at Waseda University
+* Reviewer for various Digital Humanities and Natural Language Processing journals and conferences (EMNLP, COLING, NAACL, ACL, EACL, DHNB, DH, NLP4DH, NoDaLiDa)
+* Program Committee member for the NLP4DH workshop in 2021 at ICON'21.
+
