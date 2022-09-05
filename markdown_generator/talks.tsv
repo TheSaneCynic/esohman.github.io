@@ -1,25 +1,26 @@
-ï»¿title	type	url_slug	venue	date	location	talk_url	description
-SELF & FEIL: Emotion lexicons for Finnish	Conference presentation	https://dhnb.eu/conferences/dhnb2022/	DHNB'22	2022/03/18	"Uppsala	 Sweden"		
-The Validity of Lexicon-based Emotion Analysis in Interdisciplinary Research	Conference presentation	https://rootroo.com/en/nlp4dh-workshop/	NLP4DH	2021/12/19	"NIT Silchar	 India"		
-Japanese Beauty Marketing on Social Media: Critical Discourse Analysis Meets NLP	Conference presentation	https://rootroo.com/en/nlp4dh-workshop/	NLP4DH	2021/12/19	"NIT Silchar	 India"		
-What to expect from an academic career?	Panel	"https://www.digitalfutures.kth.se/news/future-digileaders/#:~:text=Future%20Digileaders%20is%20a%20yearly	%2C%20panels%2C%20and%20sincere%20discussions."	Future Digileaders	2021/10/19	"Stockholm	 Sweden"		
-Skin Deep: Exploring ideals of Japanese beauty through social media	Conference presentation	https://www.hi.u-tokyo.ac.jp/JADH/2021/	JADH'21	2021/09/07	"Tokyo	 Japan"		
-Panel: Current approaches to Digital Humanities. Researches of the EADH Small Grants 2020 recipients	Panel	https://eadh2020-2021.org/	EADH'21	2021/09/23	"Krasnoyarsk	 Russia"		
-AI Ethics and Applications in Finance	Talk	https://indexvarainhoito.fi/	Index Varainhoito	2021/09/09	"Helsinki	 Finland"		
-AI for the Environment	Talk	https://www.syke.fi/en-US	"Finnish Environment Institute	Feb	 2021Invited"	2021/01/22	"Helsinki	 Finland"		
-XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection	Talk	https://coling2020.org/	COLING'20	2020/12/11	"Barcelona	 Spain"		
-Challenges in Annotation: Annotator Experiences from a Crowdsourced Emotion Annotation Task	Conference presentation	https://dhnb.eu/past-conferences/dhn2020/	DHNB'20	2020/10/22	"Riga	 Latvia"		
-Emotion Preservation in Translation: Evaluating Datasets for Annotation Projection	Conference presentation	https://dhnb.eu/past-conferences/dhn2020/	DHNB'20	2020/10/22	"Riga	 Latvia"		
-Workshop leader on minimizing bias in machine learning algorithms	Workshop	https://wiki.helsinki.fi/pages/viewpage.action?pageId=305512871	Rajapinta days	2020/11/20	"Espoo	 Finland"		
-Towards the Inevitable Demise of Everybody? A multifactorial analysis of -one/-body/-man variation in indefinite pronouns in historical American English	Conference presentation		ICAME 40	2019/06/01	"Neuchatel	 Switzerland"		
-Teaching Computational Methods to Humanities Students	Conference presentation		DHN'19	2019/03/07	"Copenhagen	 Denmark"		
-Introducing Sentimentator for Social Sciences	Conference presentation	https://wiki.helsinki.fi/pages/viewpage.action?pageId=266350639	Rajapinta days	2018/11/16	"Espoo	 Finland"		
-Multilingual Emotion Analysis	Conference presentation		DigHum: JSPS & AKA	2018/11/06	"Helsinki	 Finland"		
-Creating a Dataset for Multilingual Fine-grained Emotion-detection Using Gamification-based Annotation	Conference presentation	https://wt-public.emm4u.eu/wassa2018/	WASSA EMNLP	2018/10/31	"Brussels	 Belgium"		
-Computational Bias and AI Ethics	Talk		AI in Education	2018/10/24	"Stanford	 California"		
-Sentimentator: A Sentiment and Emotion Annotation Platform	Conference presentation	https://www2.helsinki.fi/en/helsinki-centre-for-digital-humanities/dhn-2018	DHN'18	2018/03/08	"Helsinki	 Finland"		
-Mitigating Bias in Machine Learning Applications	Conference presentation		AI in Education	2019/02/13	"Helsinki	 Finland"		
-The Challenges of Multi-dimensional Sentiment Analysis Across Languages	Conference presentation	https://dblp.org/db/conf/coling/peoples2016.html	PEOPLES COLING	2016/12/12	"Osaka	 Japan"		
-Lexicon-based Multilingual Sentiment Analysis	Talk		FIN-CLARIN	2016/06/10	"Helsinki	 Finland"		
-"""Language Change Database: a new online resource"""	Conference presentation	https://www2.helsinki.fi/en/researchgroups/varieng/d2e-from-data-to-evidence	From Data to Evidence	2015/10/22	"Helsinki	 Finland"		
-Doctoral studies in language technology	Talk		HELSLANG	2016/06/08	"Helsinki	 Finland"		
+title	type	url_slug	venue	date	location	talk_url	description
+Creating an army of hacker-scholars	"International conference, peer-reviewed"	URL	 Digital Humanities Annual Conference	2022-07-21	"Tokyo, Japan"	URL	DESCR
+SELF & FEIL Emotion Lexicons for Finnish	"International conference, peer-reviewed"	URL	 Digital Humanities in the Nordic and Baltic Countries 2022	2022-03-15	"Uppsala, Sweden"	URL	DESCR
+The Validity of Lexicon-based Emotion Analysis in Interdisciplinary Research	"International conference, peer-reviewed"	URL	 NLP4DH@ICONâ'21 	2021-12-20	Zoom	URL	DESCR
+Japanese Beauty Marketing on Social Media: Critical Discourse Analysis Meets NLP	"International conference, peer-reviewed"	URL	 NLP4DH@ICONâ'21 	2021-12-19	Zoom	URL	DESCR
+Breaking into Academia	Invited panelist	URL	" at Future Digileaders, "	2021-10-01	"Stockholm, Sweden"	URL	DESCR
+Coding for Digital Humanities	Invited panelist	URL	EADH conference	2021-09-01	"Kraznoyarsk, Russia"	URL	DESCR
+Concepts of Beauty on Japanese Social Media.	"National conference, peer-reviewed"	URL	 Japanese Association for Digital Humanities	2021-07-21	"Tokyo, Japan"	URL	DESCR
+XED: Multilabel Emotion Dataset	"International conference, peer-reviewed"	URL	COLING	2020-12-10	"Barcelone, Spain"	URL	DESCR
+Emotion Annotation	"International conference, peer-reviewed"	URL	Digital Humanities in the Nordic Countries	2020-10-01	"Riga, Latvia"	URL	DESCR
+Sentiment annotation and analysis in Finnish	National conference	URL	Rajapinta days	2020-11-02	"Espoo, Finland"	URL	DESCR
+Mitigating the effects of bias in data for machine learning algorithms	National conference workshop	URL	Rajapinta days	2020-11-01	"Espoo, Finland"	URL	DESCR
+Towards the Inevitable Demise of Everybody? A multifactorial analysis of -one/-body/-man variation in indefinite pronouns in historical American English	"International conference, peer-reviewed"	URL	  International Computer Archive of Modern and Medieval English (ICAME 40)	2019-06-01	LOC	URL	DESCR
+Teaching Computational Methods to Humanities Students	"International conference, peer-reviewed"	URL	  Digital Humanities in the Nordic Countries 	2019-02-20	"Copenhagen, Denmark"	URL	DESCR
+Biased Algorithms	"International conference, invited speaker"	URL	  AI in Education	2019-02-01	"Helsinki, Finland"	URL	DESCR
+Multilingual Emotion Analysis	International conference	URL	AKA JSPS Seminar	2018-11-01	"Helsinki, Finland"		DESCR
+Sentiment Analysis for Social Media Analytics	National conference	URL	Rajapinta-days	2018-11-15	"Espoo, Finland"	URL	DESCR
+Creating a Dataset for Multilingual Fine-grained Emotion-detection Using Gamification-based Annotation	"International conference, peer-reviewed"	URL	"  WASSA: EMNLP 2018, October "	2018-10-01	"Brussels, Belgium"	URL	DESCR
+Computational Bias	"International conference, invited speaker"	URL	"  Stanford University: AI in Education, October "	2018-10-10	"Stanford, CA, USA"	URL	DESCR
+Sentimentator: A Sentiment and Emotion Annotation Platform	"International conference, peer-reviewed"	URL	  Digital Humanities in the Nordic Countries 	2018-03-20	"Helsinki, Finland"	URL	DESCR
+Lexicon-based Sentiment Analysis	International conference	URL	  Building and Using Language Technology (BAULT) 	2018-02-01	"Helsinki, Finland"	URL	DESCR
+The Challenges of Multi-dimensional Sentiment Analysis Across Languages	"International conference, peer-reviewed"	URL	  PEOPLES: CoLing	2016-12-10	"Osaka, Japan"	URL	DESCR
+Sentiment Analysis for Theoretical Philosophy	Invited speaker	URL	"  Wittgenstein Institute, December "	2016-12-01	"Helsinki, Finland"	URL	DESCR
+Sentiment Analysis for low-resource languages	Invited speaker	URL	  FIN-CLARIN seminar/conference	2016-06-15	"Helsinki, Finland"	URL	DESCR
+Sentiment Analysis as a Research Topic	Keynote Speaker	URL	HELSLANG 	2016-06-01	"Helsinki, Finland"	URL	DESCR
+Language Change Database: a new online resource	"International conference, peer-reviewed"	URL	  From Data to Evidence (d2e)	2015-10-01	"Helsinki, Finland"	URL	DESCR
