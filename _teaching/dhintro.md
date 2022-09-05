@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course, Introductory course"
 permalink: /teaching/dhintro
 venue: "Waseda Unviersity, School of International Liberal Studies (open to all of Waseda)"
-date: ongoing
+date: 2022-04-01
 location: "Tokyo, Japan"
 ---
 
-This course is an undergraduate level introductory course teaching digital humanities methods to students of liberal arts.
+This course is an undergraduate level introductory course teaching digital humanities methods to students of liberal arts since 2021.
 
 The main learning goals of the course are that after completing it, a student will be able to:
 
