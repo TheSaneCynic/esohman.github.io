@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course, Intermediate course"
 permalink: /teaching/p4dh
 venue: "Waseda Unviersity, School of International Liberal Studies (open to all of Waseda)"
-date: ongoing
+date: 2022-09-01
 location: "Tokyo, Japan"
 ---
 
-This course is an undergraduate level intermediate course teaching practical programming skills for beginners.
+This course is an undergraduate level intermediate course teaching practical programming skills for beginners since 2021.
