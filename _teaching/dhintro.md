@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, Introductory course"
 permalink: /teaching/dhintro
 venue: "Waseda Unviersity, School of International Liberal Studies (open to all of Waseda)"
-date: 2021-01-01
+date: ongoing
 location: "Tokyo, Japan"
 ---
 
