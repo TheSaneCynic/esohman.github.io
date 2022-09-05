@@ -1,0 +1,57 @@
+@article{nevalainen2016language,
+  title={Language Change Database: A new online resource},
+  author={Nevalainen, Terttu and Vartiainen, Turo and S{\"a}ily, Tanja and Kes{\"a}niemi, Joonas and Dominowska, Agata and {\"O}hman, Emily and others},
+  journal={ICAME journal},
+  year={2016}
+}
+
+
+@inproceedings{ohman2019towards,
+  title={Towards the inevitable demise of everybody?},
+  author={{\"O}hman, Emily and S{\"a}ily, Tanja and Laitinen, Mikko},
+  journal={ICAME 40},
+  year={2019}
+}
+
+
+@phdthesis{ohman2021language,
+  title={The Language of Emotions: Building and Applying Computational Methods for Emotion Detection for English and Beyond},
+  author={{\"O}hman, Emily},
+  year={2021},
+  journal={University of Helsinki}
+}
+
+
+@article{ohman2015recent,
+  title={Recent Changes in Indefinite Pronouns with Human Reference: A diachronic corpus study of 200 years of-one/-body and-man indefinite pronoun variation in Late Modern and Present-day English},
+  author={{\"O}hman, Emily},
+  year={2015},
+  journal={Linnaeus University}
+}
+
+
+
+@incollection{ohman2021affect,
+  title={Affect and Emotions in Finnish Literature: Combining Qualitative and Quantitative Approach},
+  author={{\"O}hman, Emily and Rossi, Riikka},
+  booktitle={The Language of Emotions: Building and Applying Computational Methods for Emotion Detection for English and Beyond},
+  pages={232--241},
+  year={2021},
+  journal={University of Helsinki}
+}
+
+@article{ohman2022hate,
+  title={Hate speech, Censorship, and Freedom of Speech: The Changing Policies of Reddit},
+  author={{\"O}hman, Emily and Nakajima Wickham, Elissa},
+  journal={Journal of Data Mining \& Digital Humanities},
+  year={2022},
+  publisher={Episciences. org}
+}
+
+
+@misc{allwood2007european,
+  title={European intercultural workplace: Sverige},
+  author={Allwood, Jens and Lindstr{\"o}m, Natalia Berbyuk and B{\"o}rjesson, Margreth and Edeb{\"a}ck, Charlotte and Myhre, Randi and Voionmaa, Kaarlo and {\"O}hman, Emily},
+  year={2007},
+  journal={G{\"o}teborgs Universitet}
+}
