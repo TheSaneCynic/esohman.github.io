@@ -1,4 +1,3 @@
-
 ---
 title: "Un-Conventional Communicators in the Corona Crisis (UnCoCo)"
 collection: research
