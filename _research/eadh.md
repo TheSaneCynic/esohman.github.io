@@ -8,5 +8,5 @@ location: "Tokyo, Japan"
 ---
 
 An EADH small grants project in which I created Python notebooks geared towards humanities and other non-STEM students.
-[https://github.com/esohman/EADH] (The project is available here.)
+(https://github.com/esohman/EADH)[The project is available here.]
 
