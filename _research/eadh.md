@@ -3,8 +3,8 @@ title: "Coding for Humanities"
 collection: research
 type: "EADH Small Grant"
 permalink: /research/eadh
-dateto: 2021-03-31
 datefrom: 2020-11-30
+dateto: 2021-03-31
 location: "Helsinki, Finland"
 ---
 
