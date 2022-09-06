@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Personal Website of Emily Öhman"
-excerpt: "Personal website of Emily Öhman containing information on publications, teaching, and research interests."
+title: "Academic Website of Emily Öhman"
+excerpt: "Academic website of Emily Öhman containing information on publications, teaching, and research interests."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the personal website of Emily Öhman.
+On this website you will find an overview of my academic activities, including lists and links to publications, talks, software, datasets, and other resources.
 
-Research Interests
+### Research Interests
 ======
 Digital Humanities
 Language Technology
