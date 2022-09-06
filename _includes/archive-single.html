@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'research' %}
-          <p>Active until: <i>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><strong>Active:</strong> <i>{{ post.datefrom | default: "1900-01-01" | datefrom: "%B %d, %Y" }} to {{ post.dateto | default: "1900-01-01" | dateto: "%B %d, %Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
