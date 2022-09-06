@@ -99,8 +99,10 @@ Teaching
   
 Grants, Projects & Awards
 ======
-* JSPS Kakenhi Early career researcher: Negative emotions in literature: A computational approach to tone and mood: 2022-2024. 1,500,000JPY
-* Tokutei Kadai, Research base creation, 2021-2022. 298,000JPY
+* JSPS Kakenhi Early career researcher: Negative emotions in literature: A computational approach to tone and mood: 2022-2024. 1,950,000JPY
+* Tokutei Kadai (internal), Research base creation, 2022-2023. 200,000JPY: Python for DH videos
+* Tokutei Kadai (internal), Early career, 2022-2023. 300,000JPY: Japanese NLP for CLS
+* Tokutei Kadai (internal), Research base creation, 2021-2022. 298,000JPY: Establishing digital humanities at SILS
 * European Association for Digital Humanities (EADH) small grants recipient 2020 for the development of a [Python notebook for Digital Humanities](https://github.com/esohman/EADH). 1000€
 * Helsingin Sanomain Säätiö, [Unconventional communicators in the corona-crisis](https://blogs.helsinki.fi/uncocoproject/), 2020-2022. 99000€ (group application)
 * The Faculty of Arts (University of Helsinki): 4-year research grant (salary) for Ph.D. research. 2016-2021. roughly 150,000€
