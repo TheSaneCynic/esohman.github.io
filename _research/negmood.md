@@ -3,8 +3,8 @@ title: "Negative emotions in literature: A computational approach to tone and mo
 collection: research
 type: "JSPS Kakenhi Early career"
 permalink: /research/negmood
-dateto: 2024-03-31
 datefrom: 2022-04-01
+dateto: 2024-03-31
 location: "Tokyo, Japan"
 ---
 
