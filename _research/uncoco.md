@@ -3,7 +3,8 @@ title: "Un-Conventional Communicators in the Corona Crisis (UnCoCo)"
 collection: research
 type: "Helsingin Sanomain Saatio"
 permalink: /research/uncoco
-date: 2022-11-30
+dateto: 2022-11-30
+datefrom: 2021-01-01
 location: "Helsinki, Finland"
 ---
  
