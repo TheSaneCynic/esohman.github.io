@@ -1,7 +1,7 @@
 ---
 title: 'Test Post'
-date: 2199-01-01
-permalink: /posts/2199/01/test/
+date: 2199-0w-01
+permalink: /posts/2199/02/test/
 tags:
   - cool posts
   - category1
