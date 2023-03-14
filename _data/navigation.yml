@@ -10,8 +10,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/     
-
+    url: /talks/    
 
   - title: "Software & Datasets"
     url: /resources/   
@@ -21,4 +20,8 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Zemi"
+    url: /zemi/
+    
    
