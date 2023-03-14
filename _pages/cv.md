@@ -15,7 +15,7 @@ Education
   * [The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond](http://urn.fi/URN:ISBN:978-951-51-7106-1)
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
-  * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
+  * [Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study ] the (https://researchportal.helsinki.fi/sv/publications/recent-changes-in-indefinite-pronouns-with-human-reference-a-diac)
 * B.A. in English (Linguistics), Linköping University, Sweden, 2006
   * Bilingualism and Metalinguistic Awareness in the Acquisition of English as a Foreign Language
 
