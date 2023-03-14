@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Language Technology, University of Helsinki, Finland, January 1, 2016 - March, 2021
-  * The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond
+  * [The Language of Emotions: Building and Applying Resources for Computational Approaches to Emotion Detection for English and Beyond](http://urn.fi/URN:ISBN:978-951-51-7106-1)
 
 * M.A. in English (Linguistics), Linnaeus University, Sweden, 2015
   * Recent Changes in Indefinite Pronouns with Human Reference: A Diachronic Corpus Study 
